@@ -37,3 +37,8 @@
  - Place: Lucknow,Uttar Pradesh
  - Bio: AI,ML and Data Science Enthusiast
  - Github: [Aditya](https://github.com/Adinarayanreloaded)
+ 
+  #### Name: Omkar Khurana
+ - Place: Delhi , India
+ - Bio: AI,ML and Data Science Enthusiast and Learner
+ - Github: [Omkar](https://github.com/Omkar-Khurana)
